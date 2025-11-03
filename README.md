@@ -1,5 +1,7 @@
 # 🧩 Offline-First Task Manager App
 
+This is a Backend Focused Project,
+
 An offline-first **task management app** built with **Flutter** and **Node.js (Express)**.  
 Users can sign up, log in, and manage their daily tasks even without an internet connection.  
 Data automatically syncs with the backend once the user goes online.
