@@ -1,6 +1,6 @@
 # 🧩 Offline-First Task Manager App
 
-This is a Backend Focused Project,
+This is a Backend Focused Project, with Cubit (bloc) as State Management.
 
 An offline-first **task management app** built with **Flutter** and **Node.js (Express)**.  
 Users can sign up, log in, and manage their daily tasks even without an internet connection.  
