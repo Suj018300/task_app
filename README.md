@@ -6,6 +6,8 @@ An offline-first **task management app** built with **Flutter** and **Node.js (E
 Users can sign up, log in, and manage their daily tasks even without an internet connection.  
 Data automatically syncs with the backend once the user goes online.
 
+##Images
+
 ## 🚀 Features
 - User authentication with persistent login state  
 - Create, view, and organize tasks by date  
